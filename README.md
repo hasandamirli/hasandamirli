@@ -37,11 +37,6 @@ I will add projects later — stay tuned.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasandamirli&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Contact & Links
-- Email: damirllihasan2002@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hasan-damirli/
-- Website: (coming soon)
-
 ## License
 This repository is licensed under the MIT License — see the LICENSE file for details.
 
