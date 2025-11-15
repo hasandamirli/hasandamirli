@@ -1,5 +1,5 @@
 # Hi, I'm Hasan 👋
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasandamirli&color=blue" alt="Profile views" />
 </p>
 Web Developer. AI Enthusiast.
@@ -18,6 +18,3 @@ I’m a mechatronics engineering graduate passionate about artificial intelligen
 - Languages: Python, JavaScript, HTML, CSS, Go
 - Web: Frontend and backend web development
 - Other: AI/ML tooling, data-driven systems, robotics foundations
-
-## Projects
-I will add projects later — stay tuned.
