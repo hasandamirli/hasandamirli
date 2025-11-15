@@ -26,15 +26,7 @@ I will add projects later — stay tuned.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasandamirli&show_icons=true&count_private=true&theme=default&hide_border=true" alt="hasandamirli's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasandamirli&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasandamirli&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## License
